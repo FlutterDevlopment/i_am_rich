@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc1dbd3d-e44a-4968-b730-f639d31f181c" name="Default Changelist" comment="Iam Rich app">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ec102466-d548-4aa4-8134-36a988662a3a" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/HerSheThah/Flutter-projects.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0wV0HIlhHLj4RqxC06JZqziM5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kshar\AndroidStudioProjects\i_am_rich\ios\Runner\Base.lproj" />
+      <recent name="C:\Users\kshar\AndroidStudioProjects\i_am_rich\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc1dbd3d-e44a-4968-b730-f639d31f181c" name="Default Changelist" comment="" />
+      <created>1604850836237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604850836237</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Iam Rich app">
+      <created>1610021961172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610021961172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iam Rich app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iam Rich app" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="213" key="#Notifications" timestamp="1610037336165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="562" y="213" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1610037336165" />
+    <state x="457" y="105" key="FileChooserDialogImpl" timestamp="1610037659858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="457" y="105" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610037659858" />
+    <state x="555" y="248" key="Github.ShareDialog" timestamp="1610037673374">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="555" y="248" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1610037673374" />
+    <state width="1200" height="147" key="GridCell.Tab.0.bottom" timestamp="1610011976372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610011976372" />
+    <state width="1200" height="147" key="GridCell.Tab.0.center" timestamp="1610011976371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610011976371" />
+    <state width="1200" height="147" key="GridCell.Tab.0.left" timestamp="1610011976371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610011976371" />
+    <state width="1200" height="147" key="GridCell.Tab.0.right" timestamp="1610011976372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610011976372" />
+    <state x="394" y="53" key="RollbackChangesDialog" timestamp="1610037043847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="53" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610037043847" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1610037403824">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1610037403824" />
+    <state x="269" y="83" key="Vcs.Push.Dialog.v2" timestamp="1610022068339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="269" y="83" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610022068339" />
+    <state x="486" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610037013443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="486" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1610037013443" />
+    <state x="479" y="212" key="git4idea.rebase.GitRebaseDialog" timestamp="1610037190772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="479" y="212" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1610037190772" />
+    <state x="452" y="232" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610038608913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="232" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610038608913" />
+  </component>
+</project>
