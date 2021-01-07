@@ -18,11 +18,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc1dbd3d-e44a-4968-b730-f639d31f181c" name="Default Changelist" comment="Iam Rich app">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="dc1dbd3d-e44a-4968-b730-f639d31f181c" name="Default Changelist" comment="iam rich app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610021961172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iam rich app">
+      <created>1610039019331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610039019331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iam Rich app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iam Rich app" />
+    <MESSAGE value="iam rich app" />
+    <option name="LAST_COMMIT_MESSAGE" value="iam rich app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="562" y="213" key="#Notifications" timestamp="1610037336165">
@@ -141,10 +145,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1610037403824" />
-    <state x="269" y="83" key="Vcs.Push.Dialog.v2" timestamp="1610022068339">
+    <state x="269" y="83" key="Vcs.Push.Dialog.v2" timestamp="1610039089269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="269" y="83" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610022068339" />
+    <state x="269" y="83" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610039089269" />
     <state x="486" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610037013443">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
